@@ -64,7 +64,7 @@ ul{
 /* header section css start from here  */
 /* =================================== */
 .header_wrapper{
-    background-image: url("../img/headerBannar.jpg");
+    background-image: url("../img/headerBannar.png");
     background-repeat: no-repeat;
     background-position: center center ;
     background-size: cover;
