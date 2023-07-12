@@ -209,9 +209,9 @@ ul{
     transition: all 0.3s linear;
     cursor: pointer;
 }
-.services_box img:hover{
+/* .services_box img:hover{
     transform: scale(1.1);
-}
+} */
 .services_box h2{
     font-size: 24px;
     text-align: center;
